@@ -12,7 +12,7 @@ Career-Connect is a robust backend for a job portal application built with Sprin
 
 **Database Seeding:** Automatically creates a default admin user on first startup.
 
-🎓** Student (ROLE_STUDENT)**
+🎓 **Student (ROLE_STUDENT)**
 
 **Register & Login:** Students can create an account and log in.
 
