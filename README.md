@@ -1,4 +1,5 @@
 Career-Connect 🚀
+
 Career-Connect is a robust backend for a job portal application built with Spring Boot, Spring Security, and Spring Data JPA. It provides a secure, role-based REST API for students to find and apply for jobs, and for administrators to manage jobs, applications, and users.
 
 ✨ Features
